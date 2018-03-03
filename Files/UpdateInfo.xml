@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <efmupdateinfo>
 
-  <efmupdateversion>1.0.0.0</efmupdateversion>
-    <efmupdatewebaddress>http://</efmupdatewebaddress>
+  <efmupdateversion>1.0.0.2</efmupdateversion>
+  <efmupdatewebaddress>http://</efmupdatewebaddress>
+  <efmsaglayicixmlwebaddress></efmsaglayicixmlwebaddress>
   
 </efmupdateinfo>
