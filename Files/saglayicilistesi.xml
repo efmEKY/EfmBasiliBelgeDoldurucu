@@ -7,7 +7,7 @@
       <sablon version="" downloadurl=""/>
     </sablonlistesi>
     <kullanicilistesi>
-      <kullanici ad="" sifre=""/>
+      <kullanici ad="s" sifre=""/>
     </kullanicilistesi>
   </saglayici>
 </efmsaglayicilistesi>
