@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <efmsaglayicilistesi>
-  <saglayici>
-    <kurumadi></kurumadi>
-    <kurumlogo></kurumlogo>
+  <saglayici kod="OZDEBIR">
+    <kurumadi>ÖZDEBİR Özel Eğitim  Öğretim Derneği</kurumadi>
     <sablonlistesi>
-      <sablon version="" downloadurl=""/>
+      <sablon version="1.0" downloadurl=""/>
     </sablonlistesi>
-    <kullanicilistesi>
-      <kullanici ad="s" sifre=""/>
-    </kullanicilistesi>
   </saglayici>
 </efmsaglayicilistesi>
