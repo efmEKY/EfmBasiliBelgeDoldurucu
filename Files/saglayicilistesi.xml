@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <efmsaglayicilistesi>
+  <saglayici kod="EFEM">
+    <kurumadi>EFEM Yazılım</kurumadi>
+    <sablonlistesi>
+      <sablon version="1.0" aciklama="Örnek Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/efemornekoptik.ebbd?raw=true"/>
+    </sablonlistesi>
+  </saglayici>
   <saglayici kod="OZDEBIR">
     <kurumadi>ÖZDEBİR Özel Eğitim  Öğretim Derneği</kurumadi>
     <sablonlistesi>
-      <sablon version="1.0" downloadurl=""/>
+      <sablon version="1.0" aciklama="8. Sınıflar İçin Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/8.ebbd?raw=true"/>
+      <sablon version="1.0" aciklama="Temel Yeterlilik Testi I. Oturum Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/tyt.ebbd?raw=true"/>
+      <sablon version="1.0" aciklama="Alan Yeterlilik Testi II. Oturum Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/ayt.ebbd?raw=true"/>
+      <sablon version="1.0" aciklama="YKS Alan Testleri II. Oturum Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/yks.ebbd?raw=true"/>
+      <sablon version="1.0" aciklama="Yabancı Dil Sınavı Optik Cevap Kağıdı Şablonu" downloadurl="https://github.com/efmEKY/EfmBasiliBelgeDoldurucu/blob/master/Files/yds.ebbd?raw=true"/>
+
     </sablonlistesi>
   </saglayici>
 </efmsaglayicilistesi>
